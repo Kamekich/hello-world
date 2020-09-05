@@ -1,6 +1,6 @@
 # hello-world
 just another repository
 
-Hello Humna:
+Hello Human:
 
 This is the test of GitHub.
